@@ -208,6 +208,12 @@ body {
   border-radius: 40px;
   outline: none;
 }
+.btn:hover {
+  border: 1px solid #000;
+}
+.btn:active {
+  color: #000;
+}
 
 .side-button {
   top: 95%;
